@@ -178,5 +178,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# IntelliJ
+.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,python
 !docs/src/lib
